@@ -1,0 +1,29 @@
+[2086][environment] CWD = /Users/anandsb/eclipse-workspace/SampleTest/src/com/anand/test
+[2086][environment] No .inferconfig file found
+[2086][environment] Project root = /Users/anandsb/eclipse-workspace/SampleTest/src/com/anand/test
+[2086][environment] INFER_ARGS =   @/var/folders/tx/hdxwdzsd1b70g3c10vtvj3q80000gn/T/args.tmp.e2fe2f
+[2086][environment]   ++Contents of '/var/folders/tx/hdxwdzsd1b70g3c10vtvj3q80000gn/T/args.tmp.e2fe2f':
+[2086][environment]     --racerd-only
+[2086][environment]   
+[2086][environment] command line arguments:   infer --racerd-only -- javac SampleTest2.javaAnalyzer: checkers
+[2086][environment] Active checkers: RacerD (C/C++/ObjC, Java)
+[2086][environment] Infer log identifier is 
+Infer version v0.15.0
+[2086][environment] Copyright 2009 - present Facebook. All Rights Reserved.
+[2086][environment] 
+[2086][   progress] Capturing in javac mode...
+[2086][      debug] Current working directory: '/Users/anandsb/eclipse-workspace/SampleTest/src/com/anand/test'
+[2086][      debug] Trying to execute: javac '-J-Duser.language=en' '@/var/folders/tx/hdxwdzsd1b70g3c10vtvj3q80000gn/T/args_.tmp.124d65' 2>'/var/folders/tx/hdxwdzsd1b70g3c10vtvj3q80000gn/T/javac.tmp.42d566.out'
+[2086][      debug] *** Success. Logs:
+[2086][      debug] Translating 1 source files (0 classes)
+[2086][      debug] done capturing all files
+[2086][   progress] Found 1 source file to analyze in /Users/anandsb/eclipse-workspace/SampleTest/src/com/anand/test/infer-out
+[2086][   progress] Starting analysis...
+[2086][   progress] 
+[2086][   progress] legend:
+[2086][   progress]   "F" analyzing a file
+[2086][   progress]   "." analyzing a procedure
+[2086][   progress] 
+[2086][   progress] 
+[2086][environment] Parallel jobs: 4
+[2086][   progress] F
